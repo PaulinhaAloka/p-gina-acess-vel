@@ -24,7 +24,7 @@ section {
     width: 25%;
 }
 .nav-link {
-    color: #CB6D43;
+    color: #683ffcd8;
     font-weight: 600;
 }
 
@@ -106,16 +106,17 @@ h2 {
 
 #galeria {
     background-color: #FAF4F4;
-
+display: grid;
 }
 
 .fundo-galeria {
     background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
+
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/fundo-de-textura-de-tinta-de-marmoreacao-liquida-pintura-fluida-textura-abstrata-papel-de-parede-de-mistura-de-cores-intensiva_1258-91986.avif');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
