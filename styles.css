@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #0a59ec;
+    --laranja-claro: #d403a0;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -84,8 +84,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/fonemusica.webp') top right no-repeat,
+        url('img/fonemusica.webp') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -113,13 +113,13 @@ display: grid;
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/estrela.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 
 }
 
 #contato {
-    background-image: url('img/fundo-de-textura-de-tinta-de-marmoreacao-liquida-pintura-fluida-textura-abstrata-papel-de-parede-de-mistura-de-cores-intensiva_1258-91986.avif');
+    background-image: url('img/fumaca-rosa-em-estrelas-transparentes-no-ceu-noturno_107791-18369.avif');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
